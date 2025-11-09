@@ -1,5 +1,4 @@
-Name : Kaan Arslan
-Number : 231101036
+Author : Kaan Arslan
 
 How to Compile and Run:
 
@@ -38,3 +37,7 @@ File Directory:
 	- MinHeap.java: Implements a minimum priority queue for Prim's algorithm.
 	- MSTNode.java: Represents a node in the multiway tree.
 	- MultiwayTree.java: Stores the MST structure and provides operations such as evert and insert edge.
+
+Note:
+    This project was developed as an assignment of the Algorithm Analysis course (code 331) at TOBB University of Economics and Technology during the Spring semester of 2024–2025.
+    It received a grade of 100/100.
